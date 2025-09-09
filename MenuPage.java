@@ -1,4 +1,4 @@
-[8:35 pm, 08/09/2025] shiril: import javax.swing.*;
+import javax.swing.*;
 import java.awt.*;
 
 public class MenuPage extends JFrame {
